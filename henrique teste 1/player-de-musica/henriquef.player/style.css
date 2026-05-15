@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+    height: 100vh;
+    font-family: "Saira";
+    background: linear-gradient(120deg, red,rgb(107, 1, 1), black) no-repeat;
+    color: rgb(2, 2, 58);
+     margin: 0%;
+    padding: 0%;
+}
+
